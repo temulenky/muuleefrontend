@@ -1,0 +1,1050 @@
+[
+    {
+        "id": 1,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Tugs-Erdene",
+        "last_name": "Shinelundaa",
+        "email": "tugsuu061109@gmail.com",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "hidden_exid",
+        "type": "student",
+        "point": "100",
+        "created_at": "2026-03-11",
+        "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 2,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Dulguun",
+        "last_name": "Altan-Ochir",
+        "email": "nest20271003@nhs.edu.mn",
+        "age": 17,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "fluffy_duk",
+        "type": "student",
+        "point": "0",
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+                ]
+    },
+    {
+        "id": 3,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Temuujin",
+        "last_name": "Bayasgalan",
+        "email": "nest212712@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 4,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Bat-Uchral",
+        "last_name": "Erdenebat",
+        "email": "nest23271010@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "batuchrale",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 5,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Turmunkh",
+        "last_name": "Davaa-Ochir",
+        "email": "nest21271010@nhs.edu.mn",
+        "age": 17,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "turuuski_",
+        "type": "student",
+        "point": 0,
+        "created_at": "2026-03-11",
+         "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+                ]
+    },
+    {
+        "id": 6,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Telmuun",
+        "last_name": "Narnakhuu",
+        "email": "nest20271010@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "tlmn_",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 7,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Ermuun",
+        "last_name": "Buyanbaatar",
+        "email": "nest20271013@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "ermuun0408",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 8,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Munkh-Orgil",
+        "last_name": "Munkhzorig",
+        "email": "nest25271004@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "munhorgil_15",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 9,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Tuguldur",
+        "last_name": "Ankhtuya",
+        "email": "nest20271007@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "tyuk.55",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 10,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Taito Mua",
+        "last_name": "Lawakele",
+        "email": "nest23271018@nhs.edu.mn",
+        "age": 17,
+        "country": "Fiji",
+        "password": "password123",
+        "instagram": "lawakele_fj",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+                ]
+    },
+    {
+        "id": 11,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Temujin",
+        "last_name": "Gantulga",
+        "email": "nest24271006@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "gnq_tm",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 12,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Chinguun",
+        "last_name": "Erdene-Ochir",
+        "email": "nest21271019@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "xenon1101001",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 13,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Angaragnaran",
+        "last_name": "Dambadorj",
+        "email": "nest21271008@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "angarag53",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 14,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Temuulen",
+        "last_name": "Davaadorj",
+        "email": "nest21271013@nhs.edu.mn",
+        "age": 15,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "temuulzgene01",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+                ]
+    },
+    {
+        "id": 15,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Altanzangilaa",
+        "last_name": "Bat-Erdene",
+        "email": "nest23271010@nhs.edu.mn",
+        "age": 17,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "litaltak",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+                ]
+    },
+    {
+        "id": 16,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Orgil",
+        "last_name": "Tsogtsaikhan",
+        "email": "nest20271006@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "rgl_tsogt",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 17,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Bilguun",
+        "last_name": "Shirmenbaatar",
+        "email": "nest20271002@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "blgn_n__",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 18,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Chinguun",
+        "last_name": "Batbayar",
+        "email": "nest21271020@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "chinguunbnaa",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 19,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Badmaarag",
+        "last_name": "Gantugs",
+        "email": "nest23271002@nhs.edu.mn",
+        "age": 17,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "badmaarag_",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+                ]
+    },
+    {
+        "id": 20,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Shinebayar",
+        "last_name": "Tsogoo",
+        "email": "nest24271011@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "fates_fx7",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+            {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 21,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Tulga",
+        "last_name": "Erdenebayar",
+        "email": "nest20271009@nhs.edu.mn",
+        "age": 17,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "ivtulga",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 22,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Erkhem",
+        "last_name": "Ganzorig",
+        "email": "nest20271014@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "rhm_gan",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 23,
+        "image":"https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
+        "first_name": "Temulen",
+        "last_name": "Gantulga",
+        "email": "nest24271007@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "miuuleeee",
+        "type": "student",
+        "point": 100,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    
+    {
+        "id": 24,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Tuvshin",
+        "last_name": "Bat-Erdene",
+        "email": "nest23271010@nhs.edu.mn",
+        "age": 16,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "tuvshinna_14",
+        "type": "student",
+        "point": 0,
+        "created_at": "2026-03-11",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+                ]
+    },
+    {
+        "id": 25,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Javzandulam",
+        "last_name": "Shine",
+        "email": "Javzaa@nhs.edu",
+        "age": 22,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "javzaa",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 26,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Bat-orgil",
+        "last_name": "Munkh",
+        "email": "Batorgil@nhs.edu",
+        "age": 20,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "Batorgil",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 27,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Azjargal",
+        "last_name": "Bat",
+        "email": "Azaa@nhs.edu",
+        "age": 22,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "Azaa",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 28,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Khishigjargal",
+        "last_name": "Munkhbat",
+        "email": "Khishigjargal@nhs.edu",
+        "age": 26,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "Khishigjargal",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 29,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Dul",
+        "last_name": "Gantulga",
+        "email": "Dul@nhs.edu",
+        "age": 26,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "javzaa",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 30,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Adiyakhuu",
+        "last_name": "Shine",
+        "email": "Adiyakhuu@nhs.edu",
+        "age": 45,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "Adiyakhuu",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 31,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Temujin",
+        "last_name": "Sarankhuu",
+        "email": "Temujin@nhs.edu",
+        "age": 29,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "Temujin.S",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 32,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Sod-od",
+        "last_name": "Sar",
+        "email": "Sodod@nhs.edu",
+        "age": 39,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "Sodo",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 33,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Gereltuya",
+        "last_name": "Saran",
+        "email": "Gereltuya@nhs.edu",
+        "age": 36,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "Tuya",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    },
+    {
+        "id": 34,
+        "image":"https://i.pinimg.com/474x/d4/95/5e/d4955e04bfa7e361fd069213db40e671.jpg",
+        "first_name": "Munkhorgil",
+        "last_name": "Erdenebayar",
+        "email": "Guumi@nhs.edu",
+        "age": 22,
+        "country": "Mongolia",
+        "password": "password123",
+        "instagram": "Guumii",
+        "type": "teacher",
+        "point": "100",
+        "created_at": "2026-03-25",
+         "item": [
+             {
+            "id":1,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            },
+            {
+            "id":2,
+            "name":"item1",
+            "decription": "Ger",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/041/444/729/small/ai-generated-fresh-organic-potatoe-with-potato-slice-isolated-healthy-and-organic-food-ai-generated-transparent-with-shadow-png.png",
+            "price":"90"
+            }
+
+                ]
+    }
+]

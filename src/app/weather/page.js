@@ -24,7 +24,7 @@ export default function TestPage() {
             <div className="text-9xl">☀️</div>
           </div>
           <div className="bg-[#1e293b] rounded-2xl p-6">
-            <h3 className="text-2 mb-4 text-gray-300">TODAY'S FORECAST</h3>
+            <h3 className="text-2 mb-4 text-gray-300">TODAY S FORECAST</h3>
             <div className="flex justify-between text-center">
               {[
                 { time: "6:00 AM", temp: "25°", icon: "☁️" },

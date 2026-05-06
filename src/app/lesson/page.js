@@ -12,16 +12,16 @@ export default function Home() {
     );
 
     return (
-        <div>
-            <input
+        <div >
+            <input 
                 type="text"
                 placeholder="Search by name or email..."
-                className="border p-2 mb-4 w-full rounded"
+                className="border p-2 mb-4 w-full rounded ml-4 mt-4"
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
             />
 
-            <div className="grid grid-cols-6 gap-4">
+            <div className="grid ml-4 grid-cols-6 gap-4">
                 {filteredData.map((item, index) => (
                     <div key={index} className="bg-pink-200 h-120 w-full rounded overflow-hidden">
                         <img

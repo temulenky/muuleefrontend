@@ -1,93 +1,143 @@
+"use client";
 import Image from "next/image";
 import Link from "next/link";
+import { useState } from "react";
 
 export default function Home() {
+  const [menuOpen, setMenuOpen] = useState(false);
+
   return (
-     <div className="bg-white h-screen pt-4 flex flex-col items-center">
-      {/*header*/}
-      <div className="flex items-center h-14 p-4 container mx-auto bg-white rounded-xl ">
-        <div className="flex gap-4 items-center">
-          <img 
-          className="rounded-full h-10 w-10"
-          scr="/potato.logo.avif"
-          />
-          <h1>
-            potato
-          </h1>
+    <div className="min-h-screen bg-[#FFF9F5] font-sans">
+      {/* ── NAVBAR ── */}
+      <header className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-pink-100 shadow-sm">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+          
+          {/* Logo */}
+          <div className="flex items-center gap-3">
+            <Image
+              src="/potato.logo.avif"
+              alt="Potato logo"
+              width={40}
+              height={40}
+              className="rounded-full object-cover ring-2 ring-pink-200"
+            />
+            <span className="text-xl font-bold text-gray-800">potato</span>
+          </div>
 
+          {/* Desktop nav */}
+          <nav className="hidden md:flex items-center gap-8">
+            {[
+              { label: "Home", href: "/" },
+              { label: "Users", href: "/lesson" },
+              { label: "About Us", href: "/about" },
+              { label: "Contact", href: "/contact" },
+              { label: "Weather", href: "/weather" },
+            ].map(({ label, href }) => (
+              <Link
+                key={label}
+                href={href}
+                className="text-sm text-gray-600 hover:text-pink-500 transition font-medium"
+              >
+                {label}
+              </Link>
+            ))}
+          </nav>
+
+          {/* Desktop buttons */}
+          <div className="hidden md:flex gap-3">
+            <button className="px-4 py-2 text-sm text-pink-500 border border-pink-300 rounded-lg hover:bg-pink-50">
+              Sign in
+            </button>
+            <button className="px-4 py-2 text-sm text-white bg-pink-400 rounded-lg hover:bg-pink-500 shadow">
+              Sign up
+            </button>
+          </div>
+
+          {/* Mobile menu button */}
+          <button
+            className="md:hidden p-2"
+            onClick={() => setMenuOpen(!menuOpen)}
+          >
+            <svg className="w-6 h-6" fill="none" stroke="currentColor">
+              {menuOpen ? (
+                <path strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+              ) : (
+                <path strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
+              )}
+            </svg>
+          </button>
         </div>
-        <div className="flex gap-6 ml-80 items-center">
-         
-          <p> Home </p>
-          <p> Service </p>
-          <Link href="/about">About Us</Link>
-          <p> Contact Us </p>
-          <p> Faq </p>
-        </div>
-        <div className="flex items-center gap-4 ml-8">
-          <button className="bg-pink-300  hover:bg-pink-600 p-2 rounded-xl"> Sign in </button>
-          <button className="bg-pink-300 hover:bg-pink-600 p-2 rounded-xl"> Sign up </button>
 
-        </div>
-      </div>
-      <div className="mt-5 h-8 border border-black hover:bg-gray-200 w-50 bg-white flex justify-center items-center">
-          <h3>CONTACT PAGE</h3>
-      </div>
-      <div className="mt-5 h-28 w-150 bg-white flex justify-center items-start">
-          <h1 className="text-5xl flex justify-center items-start text-center">Get in touch with us for more information</h1>
-      </div>
-      <div className=" mt-5 h-10  w-150 bg-white flex justify-center items-center">
-          <h4>if you need help or have a question, we"re here for you kkk</h4>
-      </div>
-      <div className="mt-10 h-80 w-255 bg-white grid grid-cols-3">
-        <div class="h-60 ml-5 w-80 bg-pink-200 rounded-xl">
-          <div class="ml-5 mt-5 bg-pink-200">
-            <h3 class="font-bold text-xl">San Francisco</h3>
-          </div>
-          <hr className="m-5"></hr>
-          <div class="ml-5 mt-5 bg-pink-200">
-            <h3>sanfrancisco@flowbase.com</h3>
-          </div>
-          <div class="ml-5 mt-5 bg-pink-200">
-            <h3>(415) 931-1616</h3>
-          </div>
-          <div className="mt-5 ml-5 h-10 border border-black w-70 rounded-xl bg-white flex justify-center items-center">
-            <h3>view location</h3>
-          </div>
-          </div>
-        <div class="h-60 ml-5 w-80 bg-pink-200 rounded-xl">
-          <div class="ml-5 mt-5 bg-pink-200">
-            <h3 class="font-bold text-xl">Paris</h3>
-          </div>
-          <hr className="m-5"></hr>
-          <div class="ml-5 mt-5 bg-pink-200">
-            <h3>paris@flowbase.com</h3>
-          </div>
-          <div class="ml-5 mt-5 bg-pink-200">
-            <h3>(415) 931-1616</h3>
-          </div>
-          <div className="mt-5 ml-5 h-10 border border-black w-70 rounded-xl bg-white flex justify-center items-center">
-            <h3>view location</h3>
-          </div>
-          </div>
-        <div class="h-60 ml-5 w-80 bg-pink-200 rounded-xl">
-          <div class="ml-5 mt-5 bg-pink-200">
-            <h3 class="font-bold text-xl">Egypt</h3>
-          </div>
-          <hr className="m-5"></hr>
-          <div class="ml-5 mt-5 bg-pink-200">
-            <h3>egypt@flowbase.com</h3>
-          </div>
-          <div class="ml-5 mt-5 bg-pink-200">
-            <h3>(415) 931-1616</h3>
-          </div>
-          <div className="mt-5 ml-5 h-10 border border-black w-70 rounded-xl bg-white flex justify-center items-center">
-            <h3>view location</h3>
-          </div>
-          </div>
+        {/* Mobile menu */}
+        {menuOpen && (
+          <div className="md:hidden px-4 pb-4 space-y-2 bg-white border-t">
+            {["Home", "Services", "About Us", "Contact", "FAQ"].map((item) => (
+              <a key={item} href="#" className="block py-2 text-gray-700">
+                {item}
+              </a>
+            ))}
 
-      </div>
+            <div className="flex gap-2">
+              <button className="flex-1 py-2 border rounded-lg text-pink-500">
+                Sign in
+              </button>
+              <button className="flex-1 py-2 bg-pink-400 text-white rounded-lg">
+                Sign up
+              </button>
+            </div>
+          </div>
+        )}
+      </header>
 
+      {/* ── HEADER TEXT ── */}
+      <section className="mt-10 px-4 text-center">
+        <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold">
+          Get in touch with us
+        </h1>
+        <p className="mt-3 text-gray-600 text-sm sm:text-base">
+          If you need help or have a question, we're here for you
+        </p>
+      </section>
+
+      {/* ── CARDS ── */}
+      <section className="mt-10 px-4 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {[
+          {
+            city: "San Francisco",
+            email: "sanfrancisco@flowbase.com",
+            link: "https://maps.google.com",
+          },
+          {
+            city: "Paris",
+            email: "paris@flowbase.com",
+            link: "https://maps.google.com",
+          },
+          {
+            city: "Egypt",
+            email: "egypt@flowbase.com",
+            link: "https://maps.google.com",
+          },
+        ].map((item) => (
+          <div
+            key={item.city}
+            className="bg-pink-200 rounded-2xl p-6 max-w-sm mx-auto w-full shadow-md hover:shadow-xl hover:-translate-y-1 transition"
+          >
+            <h3 className="font-bold text-xl">{item.city}</h3>
+            <hr className="my-4 border-pink-300" />
+
+            <p className="text-gray-700 text-sm">{item.email}</p>
+            <p className="text-gray-700 text-sm mt-2">(415) 931-1616</p>
+
+            <a
+              href={item.link}
+              target="_blank"
+              className="block mt-5 text-center border border-black rounded-xl bg-white py-2 hover:bg-gray-100"
+            >
+              View location
+            </a>
+          </div>
+        ))}
+      </section>
     </div>
   );
 }

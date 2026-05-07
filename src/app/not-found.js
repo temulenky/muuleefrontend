@@ -12,7 +12,7 @@ export default function Home() {
             <h3 class="font-bold text-5xl">Sorry, This page cannot be found</h3>
           </div>
              <div className=" mt-5 ml-5 h-10 ml-5 w-70 bg-pink-200 flex justify-center items-center">
-                <h4>if you need help or have a question, we"re here for you kkk</h4>
+                <h4>if you need help or have a question, were here for you kkk</h4>
             </div>
          
           </div>

@@ -105,7 +105,7 @@ export default function Home() {
 
             {/* Forecast */}
             <div className="bg-[#1e293b] rounded-2xl p-4 md:p-6">
-              <h3 className="mb-4 text-gray-300">TODAY'S FORECAST</h3>
+              <h3 className="mb-4 text-gray-300">TODAYS FORECAST</h3>
               <div className="flex overflow-x-auto gap-4">
                 {[
                   { time: "6AM", temp: "25°", icon: "☁️" },

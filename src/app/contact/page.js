@@ -95,7 +95,7 @@ export default function Home() {
           Get in touch with us
         </h1>
         <p className="mt-3 text-gray-600 text-sm sm:text-base">
-          If you need help or have a question, we're here for you
+          If you need help or have a question, were here for you
         </p>
       </section>
 
